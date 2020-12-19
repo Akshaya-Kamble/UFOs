@@ -38,7 +38,7 @@ Building website can have drawbacks depending on the data it loads and how we wo
 
 ### A. Drawback of this website
 
-#### 1. If the data that we type in the filter does not exist in our database the website will not display anything. So building a dropdown list for selection of available options or an error message saying "data not available for selected criteria" can help.
+#### 1. If the data that we type in the filter does not exist in our database the website will not display anything. So building a dropdown list for selection of available           options or an error message saying "data not available for selected criteria" can help.
 
 #### 2. The data is case sensitive so it does not allow to filter if anything is not written in the same case as the data.
 
